@@ -1,0 +1,5 @@
+Proje Java Swing-Mysql teknolojileri ile yazilmistir ...
+* Projenin Çalismasi Için Ön Gereksinimler
+JDK 1.8 Yüklü olmalidir.
+Mysql yüklü olmalidir.
+Mysql servisleri çalisir vaziyette olmalidir.	

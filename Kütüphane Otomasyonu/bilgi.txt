@@ -1,0 +1,2 @@
+Kütüphane otomasyon projesi ile bir kütüphanenin tüm kitap bilgilerinin kolayca ulasabilmesini 
+saglayan bir program.
